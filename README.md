@@ -798,8 +798,8 @@ void i2sCallback() {
 
 | Library | Repository |
 |---------|------------|
-| STM32duino Core | https://github.com/stm32duino/Arduino_Core_STM32 |
-| SdFat (SDIO) | https://github.com/greiman/SdFat |
+| STM32duino Core | https://github.com/rogerclarkmelbourne/Arduino_STM32 |
+| SdFat (SDIO) | https://github.com/greiman/SdFat/tree/1.1.4 |
 | Adafruit_MP3 | https://github.com/adafruit/Adafruit_MP3 |
 | libmaple (legacy) | https://github.com/leaflabs/libmaple |
 
