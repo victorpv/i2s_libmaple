@@ -1,10 +1,12 @@
-# STM32F1 MP3 Player
+# STM32F1 I2S LIBRARY WITH MP3 Player
+
+# This DOC is an AI generated draft and may contain errors. 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-STM32F1-blue.svg)
 ![Core](https://img.shields.io/badge/core-libmaple%20%2F%20stm32duino-green.svg)
 
-A high-performance MP3 player implementation for STM32F1 microcontrollers using the **Adafruit_MP3** decoder library and **I2S** output for the MAX98357A I2S Class D amplifier. Features DMA-driven audio playback, SD card support via SDIO, and real-time sample rate adaptation.
+A high-performance i2S and MP3 player implementation for STM32F1 microcontrollers using the **Adafruit_MP3** decoder library and **I2S** output for the MAX98357A I2S Class D amplifier. Features DMA-driven audio playback, SD card support via SDIO, and real-time sample rate adaptation.
 
 ---
 
