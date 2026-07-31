@@ -1,6 +1,7 @@
 # STM32F1 I2S LIBRARY WITH MP3 Player
 
 # This DOC is an AI generated draft and may contain errors. 
+# This code is for libmaple based stm32 core. NOT for the STM32 HAL based core. References to the HAL core are incorrect.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-STM32F1-blue.svg)
